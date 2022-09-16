@@ -1,0 +1,4 @@
+hostname = wallpaper.soutushenqi.com
+
+#搜图神器
+http:\/\/wallpaper\.soutushenqi\.com\/api\/v1\/account\/token url script-response-body shoutu.js
